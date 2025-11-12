@@ -10,7 +10,6 @@ import hashlib
 VERSION = "Mo0n V1.1.0 MCGS 0Day Exploit"
 TITLE = f'''
 ************************************************************************************
-<免责声明>:本工具仅供学习实验使用,请勿用于非法用途,否则自行承担相应的法律责任
 <Disclaimer>:This tool is onl y for learning and experiment. Do not use it
 for illegal purposes, or you will bear corresponding legal responsibilities
 ************************************************************************************
